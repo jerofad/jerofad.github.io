@@ -1,2 +1,17 @@
+title: Jeremiah Fadugba # your name (or website title) here
+logo: "/images/Portrait.jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+  Jeremiah Fadugba is originally from Nigeria. He is a Machine Learning Research Engineer and he has worked
+  as a Data Science/Machine Learning Consultant since 2017.
+  He holds a Masters degree in Machine Intelligence (AMMI) from the African Institute for Mathematical Sciences
+  (Rwanda) and another Masters degree in Software Engineering from FPT University (Vietnam)
+  with a focus on Big Data Analytics.
+  Jerry currently lives in Accra, Ghana as a Teaching Assistant/Tutor for the African Masters in
+  Machine Intelligence, Ghana.
+  <br><br>
+  Second description
+  <br><br>
+  <a href="https://www.linkedin.com/in/jeremiah-fadugba-5b3a5375/">View My LinkedIn Profile</a>
+
 theme: jekyll-theme-minimal
-title: Jeremiah Fadugba
+#google_analytics: UA-000000-0 # your Google Analytics tracking ID here
