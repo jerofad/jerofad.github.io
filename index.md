@@ -11,9 +11,9 @@
 features reduction and collaborative Fuzzy C-Means,” in Twentieth National Conference: Selected issues of
 Information and Communication Technology, Quy Nhon, Vietnam, 2017. [PDF here](https://drive.google.com/open?id=1DY1tk7RT2wppqljOWD3JVCFIHJj4G_zm)
 
-## Papers
+### Papers
 Some research papers I did that has not been published yet.
-1.My masters thesis report on **Single Image Super-resolution using Generative Adversarial Network** : [PDF here](https://drive.google.com/file/d/111g0tHE4ncW2QapphuyamvfZs4Yf-jmX/view?usp=sharing)
+- My masters thesis report on **Single Image Super-resolution using Generative Adversarial Network** : [PDF here](https://drive.google.com/file/d/111g0tHE4ncW2QapphuyamvfZs4Yf-jmX/view?usp=sharing)
 
 
 ### Posters
