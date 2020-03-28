@@ -15,7 +15,7 @@ Information and Communication Technology, Quy Nhon, Vietnam, 2017. [PDF here](ht
 ### Posters
 1. My poster on **Big Data clustering using Random Projection and Collaborative Clustering** at the _Black in AI_ workshop in _NeuRIPS 2017_ [poster link](https://drive.google.com/file/d/1HK0DN8qMjbFP3dOON2ua5uXE6-NulSy0/view?usp=sharing)
 
-2. Poster on **HIV1 Progression-Prediction** at the _Deep Learning IndabaX 2018_ in Kigali Rwanda. [Poster link](https://drive.google.com/file/d/1KMxL7VkTzD8Lw8ZM0H8JlyP3G-6vFnxA/view?usp=sharing)
+2. Poster on **Machine Learning for HIV1 Progression-Prediction** at the _Deep Learning IndabaX 2018_ in Kigali Rwanda. [Poster link](https://drive.google.com/file/d/1KMxL7VkTzD8Lw8ZM0H8JlyP3G-6vFnxA/view?usp=sharing)
 
 
 ### Blogs and Articles
