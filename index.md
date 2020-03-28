@@ -1,37 +1,30 @@
 ## Welcome to my Website. 
 
-You can use the [editor on GitHub](https://github.com/jerofad/jerofad.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### News & Updates
+- October, 2019: I start a new position as a **Graduate Teaching Assistant** at [African Masters in Machine Intelligence (AMMI), Ghana](https://aimsammi.org/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Publications
+1. D.T. Hop, M.D. Sinh, N.T. Long, and **J.O. Fadugba**, “Big data clustering with the use of the random projection
+features reduction and collaborative Fuzzy C-Means,” in Twentieth National Conference: Selected issues of
+Information and Communication Technology, Quy Nhon, Vietnam, 2017. [PDF here](https://drive.google.com/open?id=1DY1tk7RT2wppqljOWD3JVCFIHJj4G_zm)
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Posters
+1. My poster on **Big Data clustering using Random Projection and Collaborative Clustering** at the _Black in AI_ workshop in _NeuRIPS 2017_ [poster link](https://drive.google.com/file/d/1HK0DN8qMjbFP3dOON2ua5uXE6-NulSy0/view?usp=sharing)
 
-1. Numbered
-2. List
+2. Poster on **HIV1 Progression-Prediction** at the _Deep Learning IndabaX 2018_ in Kigali Rwanda. [Poster link](https://drive.google.com/file/d/1KMxL7VkTzD8Lw8ZM0H8JlyP3G-6vFnxA/view?usp=sharing)
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+### Blogs and Articles
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can find all my articles, tutorials and blogs [here](https://jerofad.github.io/myblogs/)
 
-### Jekyll Themes
+### Interests and resume
+While I am interested in various things, Machine Intelligence, Copmputer Vision and Generative Models always piques my interest. You can find my detailed resume [at this link](https://drive.google.com/file/d/1v84ZMrwZjC3CfSMPxtLwfK-VCjl_sdbE/view?usp=sharing)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jerofad/jerofad.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can reach me via my [twitter account](https://twitter.com/jerofad)
