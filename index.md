@@ -24,7 +24,7 @@ Some research papers I did that has not been published yet.
 
 ### Blogs and Articles
 
-You can find all my articles, tutorials and blogs [here](https://jerofad.github.io/myblogs/)
+You can find all my articles, tutorials and blogs [here](https://jerofad.github.io/blogs/)
 
 ### Interests and resume
 While I am interested in various things, Machine Intelligence, Copmputer Vision and Generative Models always piques my interest. You can find my detailed resume [at this link](https://drive.google.com/file/d/1v84ZMrwZjC3CfSMPxtLwfK-VCjl_sdbE/view?usp=sharing)
