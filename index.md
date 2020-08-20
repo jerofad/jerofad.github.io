@@ -3,6 +3,7 @@
 
 
 ### News & Updates
+- September, 2020: A grant recipient from the [AI4D-IndabaX Innovation](https://deeplearningindaba.com/2020/ai4d-indabax-innovation-call-for-proposals/) on the project "Locally run Web-based App for Interpretable BreastCancer Diagnosis from Histology Images"
 - October, 2019: I start a new position as a **Graduate Teaching Assistant** at [African Masters in Machine Intelligence (AMMI), Ghana](https://aimsammi.org/)
 
 
@@ -27,7 +28,7 @@ Some research papers I did that has not been published yet.
 You can find all my articles, tutorials and blogs [here](https://jerofad.github.io/blogs/)
 
 ### Interests and resume
-While I am interested in various things, Machine Intelligence, Copmputer Vision and Generative Models always piques my interest. You can find my detailed resume [at this link](https://drive.google.com/file/d/1v84ZMrwZjC3CfSMPxtLwfK-VCjl_sdbE/view?usp=sharing)
+While I am interested in various things, Machine Intelligence, Copmputer Vision and Generative Models always piques my interest. You can find my detailed resume [at this link](https://drive.google.com/file/d/1h2zIZpoZ5SC1sswZXyarvEL4LzF7Aoyv/view?usp=sharing)
 
 
 ### Support or Contact
